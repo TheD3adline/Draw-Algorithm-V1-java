@@ -1,3 +1,5 @@
+package at.bbrz.uebungen.drawer;
+
 import java.util.Scanner;
 public class UserInput {
     private int width;

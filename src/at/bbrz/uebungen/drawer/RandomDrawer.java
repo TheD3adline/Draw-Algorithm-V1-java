@@ -1,3 +1,5 @@
+package at.bbrz.uebungen.drawer;
+
 public class RandomDrawer implements Drawable {
 
     @Override
