@@ -1,5 +1,10 @@
 package at.bbrz.uebungen.drawer;
 
+import at.bbrz.uebungen.drawer.drawables.BoxDrawer;
+import at.bbrz.uebungen.drawer.drawables.Drawable;
+import at.bbrz.uebungen.drawer.drawables.RandomDrawer;
+import at.bbrz.uebungen.drawer.drawables.SolidDrawer;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,6 @@
-package at.bbrz.uebungen.drawer;
+package at.bbrz.uebungen.drawer.drawables;
+
+import at.bbrz.uebungen.drawer.Rectangle;
 
 public class BoxDrawer implements Drawable {
 
