@@ -17,7 +17,7 @@ public class Main {
         drawables.add(new BoxDrawer());
         drawables.add(new RandomDrawer());
 
-        while(true) {
+        while (true) {
             inputProcessor.doInput();
             Rectangle rectangle = new Rectangle(inputProcessor.getWidth(), inputProcessor.getHeight());
             drawables.get(getRandomNumber(0, drawables.size())).draw(rectangle);
